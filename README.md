@@ -2,7 +2,6 @@
 
 ## Integrantes
 
-- SEU NOME
-- NOME DO COLEGA 1
-- NOME DO COLEGA 2
-- NOME DO COLEGA 3
+- Givaldo Silva
+- Lucinete Lima
+- Joana Leal
